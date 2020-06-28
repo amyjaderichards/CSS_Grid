@@ -1,4 +1,3 @@
-# Summary
 # [CSS_Grid](https://cssgrid.io/) (Wes Bos)
 
 # Languages Used
